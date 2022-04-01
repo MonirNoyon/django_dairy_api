@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'pstu_dairy.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'pstu_dairy',
+        'NAME': 'monirhossain$pstu_dairy',
         'USER': 'pstudairy',
         'PASSWORD': 'pstudairy',
         'HOST': 'localhost',
